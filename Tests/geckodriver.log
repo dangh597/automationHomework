@@ -1,0 +1,23 @@
+1649955560199	geckodriver	INFO	Listening on 127.0.0.1:52876
+1649955563252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52877" "-no-remote" "-profile" "C:\\Users\\dangh\\AppData\\Local\\Temp\\rust_mozprofilefqwFUB"
+*** You are running in headless mode.
+1649955563440	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dangh\\AppData\\Local\\Temp\\rust_mozprofilefqwFUB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52877/devtools/browser/badf1184-12e2-4dd3-8364-e1519da9e6ef
+1649955564005	Marionette	INFO	Listening on port 52882
+1649955564306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ob.cheqzone.com/clicktrue_invocation.js?id=11582, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altex.ro"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altex.ro"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altex.ro"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altex.ro"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altex.ro"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altex.ro"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altex.ro"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://altex.ro"
+JavaScript warning: https://altex.ro/lMf0/FcPv/Mx/IZuc/o00A/t9c1VtwXNuz5/RSlQbENwKAI/eSVqXnw1/fUM, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649955570112	Marionette	INFO	Stopped listening on port 52882
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
